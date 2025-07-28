@@ -85,5 +85,5 @@ Docker Build & Push
 Uses build_and_push.sh to push the Docker image to DockerHub.
 
 Pipeline Stages or Logs:
-![logs](images/pipe.jpg)
+[logs](images/pipe.jpg)
 
