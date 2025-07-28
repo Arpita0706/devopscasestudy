@@ -86,5 +86,5 @@ Uses build_and_push.sh to push the Docker image to DockerHub.
 
 Pipeline Stages or Logs:
 
-![logs](images/abcd.png)
+![logs](assets/pipe.jpg)
 
