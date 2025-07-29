@@ -16,7 +16,7 @@ This project demonstrates a complete end-to-end DevOps automation pipeline using
 
 > 📌 The deployed application is made publicly accessible via the EC2 instance's Elastic IP.
 
-![Architecture](assets/Architecturess.png)
+![logs](assets/pipe.jpg)
 
 ---
 
