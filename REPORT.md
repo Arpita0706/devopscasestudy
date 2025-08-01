@@ -2,7 +2,7 @@ DevOps Pipeline Automation – Project Report
 This project demonstrates a complete end-to-end DevOps automation pipeline using **Terraform**, **Ansible**, **Jenkins**, **Git**, **GitHub**, and **Docker**. The objective is to provision infrastructure on AWS, configure the environment, and deploy a Dockerized Node.js application using CI/CD practices.
 
 Architecture Diagram
-![logs](assets/pipe.jpg)
+![logs](assets/Architecture.png)
 
 ### Flow Overview:
 
