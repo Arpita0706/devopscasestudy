@@ -38,7 +38,7 @@ resource "aws_security_group" "web_sg" {
 }
 
 resource "aws_instance" "web" {
-  ami           = "ami-0c55b159cbfafe1f0" # Update as per region
+  ami           = "ami-0f918f7e67a3323f0" # Update as per region
   instance_type = var.instance_type
   subnet_id     = aws_subnet.public_subnet.id
   security_groups = [aws_security_group.web_sg.name]
