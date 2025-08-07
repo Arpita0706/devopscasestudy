@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 set -euo pipefail
 
-IMAGE="yourhubusername/myapp:${GIT_COMMIT:-latest}"
+IMAGE="arpita76/myapp:${GIT_COMMIT:-latest}"
 
 echo "[+] Building Docker image..."
 docker build -t $IMAGE .
