@@ -14,7 +14,7 @@
         enabled: yes
 
     - name: Pull Docker image
-      command: docker pull yourhubusername/myapp:latest
+      command: docker pull arpita76/myapp:latest
 
     - name: Run Docker container
-      command: docker run -d -p 80:3000 yourhubusername/myapp:latest
+      command: docker run -d -p 80:3000 arpita76/myapp:latest
